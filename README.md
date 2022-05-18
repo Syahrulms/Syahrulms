@@ -13,8 +13,7 @@ I'm Muhammad Syahrul Muharram, currently studying at SMK TI Garuda, majoring in 
 Feel free to check my repository, don't forget to notify me if you found something wrong or want to use my projects :grin:
 
 ### Connect with me : 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rozaqi-wildan-3196211a6/)
-[![](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rozaqi.co/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-syahrul-63405923b/)
 
 ### Technology and Tool
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -28,6 +27,6 @@ Feel free to check my repository, don't forget to notify me if you found somethi
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-[![Syahrul's github stats](https://github-readme-stats.vercel.app/api?username=Syahrulms&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://github.com/rozaqi)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozaqi&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)](https://github.com/rozaqi)
+[![Syahrul's github stats](https://github-readme-stats.vercel.app/api?username=Syahrulms&show_icons=true&hide=issues&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://github.com/Syahrulms)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syahrulms&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)](https://github.com/Syahrulms)
 
 
